@@ -9,6 +9,7 @@
 #ifdef PLATFORMIO
 #include <Arduino.h>
 #endif
+#include <string>
 #include "ssl__client.h"
 #include "certBundle.h"
 
